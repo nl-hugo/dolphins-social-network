@@ -14,7 +14,8 @@ This chart shows a network graph of frequent dolphin associations between 62 dol
 
     data\               visualization data
     media\				media files
-	LICENSE				The license file
+	dolphins.gephi		the Gephi file containing the graph
+	LICENSE				the license file
     README.md           README file that appears on the website's github page
 
 	
