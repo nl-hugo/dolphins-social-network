@@ -5,7 +5,7 @@
 This project is an assignment as part of the [Data Visualization course](https://class.coursera.org/datavisualization-001). It aims to visualize a dolphins' social network and to get 
 hands-on experience with the topics that are covered in the course.
 
-[![nl-hugo.github.io/dolphins](/media/screenshot.png)](http://nl-hugo.github.io/dolphins)
+[![nl-hugo/dolphins-social-network](/media/screenshot.png)](https://github.com/nl-hugo/dolphins-social-network)
 
 This chart shows a network graph of frequent dolphin associations between 62 dolphins. The size of the node represents it's degree in the network; i.e. the larger the node, the more interactions a dolphin has with other dolphins. The color of the node represents the centrality in the network; i.e. the darker the node color, the more interactions from (sub-groups of) other dolphins go through this dolphin. This could be a measure of the importance of a dolphin in the group. Unfortunately, the data set does not contain any additional information to support such claims. The position of the nodes was determined by the Yifan Hu layout algorithm. The graph was created with [Gephi](http://gephi.github.io/).
 
